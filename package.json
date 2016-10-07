@@ -1,0 +1,11 @@
+{
+  "name": "natural-response-builder",
+  "version": "0.0.1",
+  "description": "combines strings with the specified delimiter",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "just10ying@gmail.com",
+  "license": "ISC"
+}
